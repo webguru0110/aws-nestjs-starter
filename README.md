@@ -219,5 +219,4 @@ curl -X PATCH 'http://localhost:3000/dev/notification/a30f7101-2434-4443-87fa-49
 
 ## Stay in touch
 
-- Author - [Hardys](mailto:hardyscc@gmail.com)
-- Twitter - [@hardyscchk](https://twitter.com/hardyscchk)
+- Author - [webguru0110](mailto:webguru0110@gmail.com)
